@@ -5,6 +5,10 @@ A simple 2D Rock-Paper-Scissors game made with Unity.
 The game opens on a menu page. Select **Play** to enter the match, choose rock, paper, or scissors, and compete against a random computer choice.
 
 ![Rock-Paper-Scissors game](Docs/expected/game_start.png)
+---
+## Video Demo
+Watch the gameplay demonstration:
+[Watch_the_VDO](https://drive.google.com/drive/folders/1KRbq0bzgOYUGzvCGm5W3pftCoRaiyCjx)
 
 ## Features
 
