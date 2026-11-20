@@ -8,7 +8,7 @@ The game opens on a menu page. Select **Play** to enter the match, choose rock, 
 ---
 ## Video Demo
 Watch the gameplay demonstration:
-[Watch_the_VDO](https://drive.google.com/drive/folders/1KRbq0bzgOYUGzvCGm5W3pftCoRaiyCjx)
+[Watch_the_VDO](https://drive.google.com/file/d/1g8K3gP3Gja8yocDafmKWZNbhBYyr-jJm/view?usp=sharing)
 
 ## Features
 
